@@ -1,11 +1,12 @@
+<img src="https://i.ibb.co/NCsRzKp/git.gif" align="center" width="500" height="340" >
 <H1>👋 Hi there !!!!</H1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+🖤+for+exploring+me+out+!!!!)](https://git.io/typing-svg)
-## root@xettabyte$ Whoami<br/>
+## root@xettabyte~$ Whoami<br/>
 Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<br/>
 
 
-## root@xettabyte$Whatiamfocusingfornow<br/>
+## root@xettabyte~$Whatiamfocusingfornow<br/>
 ⭕Bug Bounty<br/> 
 ⭕linux System Administration<br/>
 ⭕Web Application and Cloud Security<br/>
