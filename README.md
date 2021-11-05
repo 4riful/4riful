@@ -1,6 +1,6 @@
 <H1>👋 Hi there !!!!</H1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+🖤+for+explore+me+out+!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+🖤+for+exploring+me+out+!!!!)](https://git.io/typing-svg)
 ## root@xettabyte$ Whoami<br/>
 Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<br/>
 
