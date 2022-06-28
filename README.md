@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/NCsRzKp/git.gif" align="center" width="480" height="320" >
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ef4y0plkcxqy5c1pabmdu6dqn45elzicscbnn2w2&rid=giphy.gif&ct=g" align="center" width="580" height="400" >
 <H1>👋 Hi there !!!!</H1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+🖤+for+exploring+me+out+!!!!)](https://git.io/typing-svg)
@@ -15,7 +15,7 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">I LOVE :</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
