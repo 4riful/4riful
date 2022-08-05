@@ -32,7 +32,7 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 <a href="https://go.dev/" target="_blank"> <img src="asset/gopher.png" alt="" width="40" height="40"/> </a>  
 <a href="https://nodejs.org" target="_blank"> <img src="asset/nodejs.png" alt="" width="40" height="40"/> </a>  
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="asset/rust-lang.png" alt="" width="40" height="40"/> </a>  
-<a href="https://www.raspbian.org/" target="_blank"> <img src="asset/rpi.png" alt="" width="40" height="40"/> </a>  
+<a href="https://www.raspbian.org/" target="_blank"> <img src="asset/rasp.png" alt="" width="40" height="40"/> </a>  
 <a href="https://ubuntu.com/" target="_blank"> <img src="asset/ubuntu-logo.png" alt="" width="40" height="40"/> </a>  
 <a href="https://www.kali.org/" target="_blank"> <img src="asset/kali-logo.png" alt="" width="40" height="40"/> </a>  
 
