@@ -15,7 +15,8 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 
 
 
-<h3 align="left">I LOVE :</h3>
+
+
 
 <p align="left"><h3 align="left">I LOVE 😍:</h3>
 
@@ -30,15 +31,17 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 <a href="https://www.portainer.io/" target="_blank"> <img src="asset/portainer.png" alt="" width="40" height="40"/> </a> 
 <a href="https://neovim.io/" target="_blank"> <img src="asset/neovim.png" alt="" width="40" height="40"/> </a>  
 <a href="https://go.dev/" target="_blank"> <img src="asset/gopher.png" alt="" width="40" height="40"/> </a>  
-<a href="https://nodejs.org" target="_blank"> <img src="asset/nodejs.png" alt="" width="40" height="40"/> </a>  
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="asset/rust-lang.png" alt="" width="40" height="40"/> </a>  
-<a href="https://www.raspbian.org/" target="_blank"> <img src="asset/rasp.png" alt="" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank"> <img src="asset/nodejs.png" alt="" width="34" height="40"/> </a>  
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="asset/rust-lang.png" alt="" width="50" height="40"/> </a>  
+<a href="https://www.raspbian.org/" target="_blank"> <img src="asset/rasp.png" alt="" width="35" height="40"/> </a>  
 <a href="https://ubuntu.com/" target="_blank"> <img src="asset/ubuntu-logo.png" alt="" width="40" height="40"/> </a>  
-<a href="https://www.kali.org/" target="_blank"> <img src="asset/kali-logo.png" alt="" width="40" height="40"/> </a>  
+<a href="https://www.kali.org/" target="_blank"> <img src="asset/kali-logo.png" alt="" width="35" height="35"/> </a>  
 
 
 
 <p align="left"> <a href="https://twitter.com/ariful4nik" target="blank"><img src="https://img.shields.io/twitter/follow/ariful4nik?color=brightgreen&style=for-the-badge" alt="@ariful4nik"&color=0e75b6&style=flat /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,6 +52,7 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4riful&label=Profile%20views&color=0e75b6&style=flat" alt="4riful" /> </p>
 
+<h3 align="left">Blog : https://4riful.github.io/</h3>
 <!---
 4riful/4riful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
