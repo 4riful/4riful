@@ -17,7 +17,24 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 
 <h3 align="left">I LOVE :</h3>
 
-<p align="left"> <p align="left">  <a href="https://www.linux.org/" target="_blank"> <img src="asset/linux-svgrepo-com.png" alt="linux" width="40" height="40"/> </a> 
+<p align="left"><h3 align="left">I LOVE 😍:</h3>
+
+
+
+
+<p align="left">  <a href="https://www.linux.org/" target="_blank"> <img src="asset/linux-svgrepo-com.png" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="asset/bash.png" alt="" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="asset/python.png" alt="" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank"> <img src="asset/terminal-icon-png-6.png" alt="" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/ " target="_blank"> <img src="asset/docker.png" alt="" width="40" height="40"/> </a> 
+<a href="https://www.portainer.io/" target="_blank"> <img src="asset/portainer.png" alt="" width="40" height="40"/> </a> 
+<a href="https://neovim.io/" target="_blank"> <img src="asset/neovim.png" alt="" width="40" height="40"/> </a>  
+<a href="https://go.dev/" target="_blank"> <img src="asset/gopher.png" alt="" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank"> <img src="asset/" alt="" width="40" height="40"/> </a>  
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="asset/rust-lang.png" alt="" width="40" height="40"/> </a>  
+<a href="https://www.raspbian.org/" target="_blank"> <img src="asset/rpi.png" alt="" width="40" height="40"/> </a>  
+<a href="https://ubuntu.com/" target="_blank"> <img src="asset/ubuntu-logo.png" alt="" width="40" height="40"/> </a>  
+<a href="https://www.kali.org/" target="_blank"> <img src="asset/kali-logo.png" alt="" width="40" height="40"/> </a>  
 
 
 
