@@ -20,7 +20,7 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 
 
 
-<p align="left"> <a href="https://twitter.com/ariful4nik" target="blank"><img src="https://img.shields.io/twitter/follow/ariful4nik?logo=twitter&style=for-the-badge" alt="@ariful4nik"&color=0e75b6&style=flat /></a> </p>
+<p align="left"> <a href="https://twitter.com/ariful4nik" target="blank"><img src="https://img.shields.io/twitter/follow/ariful4nik?color=brightgreen&style=for-the-badge" alt="@ariful4nik"&color=0e75b6&style=flat /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
