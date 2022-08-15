@@ -39,8 +39,7 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 
 
 
-<p align="left"> <a href="https://twitter.com/xettabyte1" target="blank"><img src="https://img.shields.io/twitter/follow/ariful4nik?color=brightgreen&style=for-the-badge" alt="@xettabyte1"&color=0e75b6&style=flat /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/xettabyte1" target="blank"><img src="https://img.shields.io/twitter/follow/xettabyte1?color=brightgreen&style=for-the-badge" alt="@xettabyte1"&color=0e75b6&style=flat /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
