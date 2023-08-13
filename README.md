@@ -1,7 +1,7 @@
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ef4y0plkcxqy5c1pabmdu6dqn45elzicscbnn2w2&rid=giphy.gif&ct=g" align="center" width="580" height="400" >
 <H1>👋 Hi there !!!!</H1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=16F764&width=3000&height=1000&lines=Anticipating+a+legendary+quest+where+we+team+up+to+capture+Pok%C3%A9mon+side+by+side.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=+let's+go+snag+some+Pok%C3%A9mon!%F0%9F%90%99)](https://git.io/typing-svg)
 ## root@xettabyte~$ whoami<br/>
 Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<br/>
 
