@@ -52,6 +52,8 @@ Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<b
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4riful&label=Profile%20views&color=0e75b6&style=flat" alt="4riful" /> </p>
 
 <h3 align="left">Blog : https://xettabyte.me/</h3>
+
+<img src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" align="center" width="280" height="320">
 <!---
 4riful/4riful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
