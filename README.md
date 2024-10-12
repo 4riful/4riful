@@ -1,33 +1,41 @@
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" align="center"/>
+<!-- Sleek Glitchy GIF with a tech vibe -->
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRiYmxlYmNsejMxeDZhY2U1ZnBxZjlqcjBtNnkwNmZubDhodnN6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%" align="center"/>
 
 # 👋 Hello, World! I'm Ariful Anik
 
 🌟 **Ethical Hacker | Bug Bounty Hunter | SBC and Cloud Enthusiast** 🌟
 
-I'm passionate about cybersecurity, automation, and cloud solutions, currently focused on **Bug Bounties, Web Application & Cloud Security**, and **Linux System Administration**. If you love exploring how technology can drive innovation and security, you're in the right place!
+I'm passionate about cybersecurity, automation, and cloud solutions. Currently, I'm focused on **Bug Bounties, Web Application & Cloud Security**, and **Linux System Administration**. If you're excited about using technology to drive innovation and security, you're in the right place!
+
+---
 
 ## ⚡ What I’m Up to Right Now
 
-- 🔐 **Bug Bounty**: Securing web applications one vulnerability at a time.
-- 🌐 **Cloud Security**: Diving into AWS and containerization for secure cloud environments.
-- 🐧 **Linux Admin**: Mastering the terminal and automating with Bash and Python.
-- 🔭 **Future Plans**: Exploring Kubernetes and enhancing DevSecOps skills.
+- 🔐 **Bug Bounty Hunting**: Tracking down web vulnerabilities to secure applications.
+- 🌐 **Cloud Security**: Exploring AWS and containerization for secure environments.
+- 🐧 **Linux Mastery**: Delving deeper into Linux for efficient automation with Bash and Python.
+- 🔭 **Future Plans**: Advancing into Kubernetes and DevSecOps.
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20&%20GCP-%23FF9900.svg?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20&%20Digital%20Ocean-%23FF9900.svg?style=flat&logo=digitalocean&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevOps-Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSL-0A97F4?style=flat&logo=windows-terminal&logoColor=white"/>
 </div>
 
-> I LOVE 😍: 
-> Linux | Python | Docker | Node.js | Bash | Rust | Kubernetes | AWS | Raspberry Pi
+> **Technologies I Love** 😍: 
+> Linux | Python | Docker | Node.js | Bash | Rust | Kubernetes | AWS | Digital Ocean | Pandas | Scikit-learn | WSL | Raspberry Pi
 
 ---
 
@@ -42,8 +50,9 @@ I'm passionate about cybersecurity, automation, and cloud solutions, currently f
 
 ## 🔥 Featured Projects
 
-- 🔒 **[Secure WebApp](https://github.com/4riful/secure-webapp)**: A highly secure web application with industry-leading OWASP compliance.
-- 🐍 **[Automation Scripts](https://github.com/4riful/automation-scripts)**: Useful Python and Bash scripts to automate your daily tasks.
+- 🔒 **[Secure WebApp](https://github.com/4riful/secure-webapp)**: A highly secure web application built with industry-leading **OWASP compliance**, featuring real-time threat detection and role-based access control.
+
+- 🐍 **[Automation Scripts](https://github.com/4riful/automation-scripts)**: A collection of **Python and Bash** scripts designed to automate daily tasks such as server backups and network monitoring.
 
 ---
 
@@ -65,8 +74,8 @@ I'm passionate about cybersecurity, automation, and cloud solutions, currently f
 ## 🎯 Goals for 2024
 
 - 🛠️ Contribute to more open-source security tools.
-- 🚀 Get certified in Kubernetes Security Specialist (CKS).
-- 🏆 Win more bug bounty challenges.
+- 🚀 Get certified in **Kubernetes Security Specialist (CKS)**.
+- 🏆 Win more **Bug Bounty** challenges.
 
 ---
 
