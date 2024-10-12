@@ -50,9 +50,6 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 
 ## 🔥 Featured Projects
 
-- 🔒 **[Secure WebApp](https://github.com/4riful/secure-webapp)**: A highly secure web application built with industry-leading **OWASP compliance**, featuring real-time threat detection and role-based access control.
-
-- 🐍 **[Automation Scripts](https://github.com/4riful/automation-scripts)**: A collection of **Python and Bash** scripts designed to automate daily tasks such as server backups and network monitoring.
 
 ---
 
