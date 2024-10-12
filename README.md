@@ -1,60 +1,75 @@
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ef4y0plkcxqy5c1pabmdu6dqn45elzicscbnn2w2&rid=giphy.gif&ct=g" align="center" width="580" height="400" >
-<H1>👋 Hi there !!!!</H1>
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" align="center"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=+let's+go+snag+some+Pok%C3%A9mon!%F0%9F%90%99)](https://git.io/typing-svg)
-## root@xettabyte~$ whoami<br/>
-Ariful Anik || Ethical Hacker || Bug Bounty Hunter || SBC and Cloud Enthusiast<br/>
+# 👋 Hello, World! I'm Ariful Anik
 
+🌟 **Ethical Hacker | Bug Bounty Hunter | SBC and Cloud Enthusiast** 🌟
 
-## root@xettabyte~$whatiamfocusingfornow<br/>
-⭕Bug Bounty<br/> 
-⭕linux System Administration<br/>
-⭕Web Application and Cloud Security<br/>
- 
-![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=4riful&show_icons=true&theme=radical&hide)
+I'm passionate about cybersecurity, automation, and cloud solutions, currently focused on **Bug Bounties, Web Application & Cloud Security**, and **Linux System Administration**. If you love exploring how technology can drive innovation and security, you're in the right place!
 
+## ⚡ What I’m Up to Right Now
 
+- 🔐 **Bug Bounty**: Securing web applications one vulnerability at a time.
+- 🌐 **Cloud Security**: Diving into AWS and containerization for secure cloud environments.
+- 🐧 **Linux Admin**: Mastering the terminal and automating with Bash and Python.
+- 🔭 **Future Plans**: Exploring Kubernetes and enhancing DevSecOps skills.
 
+## 🛠️ Tech Stack
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20&%20GCP-%23FF9900.svg?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+</div>
 
+> I LOVE 😍: 
+> Linux | Python | Docker | Node.js | Bash | Rust | Kubernetes | AWS | Raspberry Pi
 
-<p align="left"><h3 align="left">I LOVE 😍:</h3>
+---
 
+## 🏆 GitHub Highlights
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4riful&show_icons=true&theme=radical&count_private=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=4riful&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4riful&layout=compact&theme=radical)](https://github.com/4riful/github-readme-stats)
 
-<p align="left">  <a href="https://www.linux.org/" target="_blank"> <img src="asset/linux-svgrepo-com.png" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="asset/bash.png" alt="" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="asset/python.png" alt="" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank"> <img src="asset/terminal-icon-png-6.png" alt="" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/ " target="_blank"> <img src="asset/docker.png" alt="" width="40" height="40"/> </a> 
-<a href="https://www.portainer.io/" target="_blank"> <img src="asset/portainer.png" alt="" width="40" height="40"/> </a> 
-<a href="https://neovim.io/" target="_blank"> <img src="asset/neovim.png" alt="" width="40" height="40"/> </a>  
-<a href="https://go.dev/" target="_blank"> <img src="asset/gopher.png" alt="" width="40" height="40"/> </a>  
-<a href="https://nodejs.org" target="_blank"> <img src="asset/nodejs.png" alt="" width="34" height="40"/> </a>  
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="asset/rust-lang.png" alt="" width="50" height="40"/> </a>  
-<a href="https://www.raspbian.org/" target="_blank"> <img src="asset/rasp.png" alt="" width="35" height="40"/> </a>  
-<a href="https://ubuntu.com/" target="_blank"> <img src="asset/ubuntu-logo.png" alt="" width="40" height="40"/> </a>  
-<a href="https://www.kali.org/" target="_blank"> <img src="asset/kali-logo.png" alt="" width="35" height="35"/> </a>  
+---
 
+## 🔥 Featured Projects
 
+- 🔒 **[Secure WebApp](https://github.com/4riful/secure-webapp)**: A highly secure web application with industry-leading OWASP compliance.
+- 🐍 **[Automation Scripts](https://github.com/4riful/automation-scripts)**: Useful Python and Bash scripts to automate your daily tasks.
 
-<p align="left"> <a href="https://twitter.com/xettabyte1" target="blank"><img src="https://img.shields.io/twitter/follow/xettabyte1?color=brightgreen&style=for-the-badge" alt="@xettabyte1"&color=0e75b6&style=flat /></a> </p>
+---
 
+## 🌐 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@xettabyte1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ariful4nik" height="30" width="40" /></a>
-<a href="https://www.facebook.com/xettabyte1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="701xpiratz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCXPvK1zmNvh60P3sMF_5M1Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xetta byte" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ariful4nik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ariful4nik" height="30" width="40" /></a>
+[![Twitter](https://img.shields.io/twitter/follow/xettabyte1?label=Twitter&logo=twitter&style=flat&color=brightgreen)](https://twitter.com/xettabyte1)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-%2310C751.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ariful4nik)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXPvK1zmNvh60P3sMF_5M1Q)
+
+![Profile views](https://komarev.com/ghpvc/?username=4riful&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+### 🚀 Visit My Blog:
+**[Xettabyte.me](https://xettabyte.me/)** for deep dives into Bug Bounties, Ethical Hacking, and more!
+
+---
+
+## 🎯 Goals for 2024
+
+- 🛠️ Contribute to more open-source security tools.
+- 🚀 Get certified in Kubernetes Security Specialist (CKS).
+- 🏆 Win more bug bounty challenges.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&center=true&vCenter=true&width=435&lines=let's+go+snag+some+Pok%C3%A9mon!%F0%9F%90%99" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4riful&label=Profile%20views&color=0e75b6&style=flat" alt="4riful" /> </p>
-
-<h3 align="left">Blog : https://xettabyte.me/</h3>
-
-
-<!---
-4riful/4riful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
