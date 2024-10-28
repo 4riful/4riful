@@ -66,15 +66,7 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 ### 🚀 Visit My Blog:
 **[Xettabyte.me](https://xettabyte.me/)** for deep dives into Bug Bounties, Ethical Hacking, and more!
 
----
 
-## 🎯 Goals for 2024
-
-- 🛠️ Contribute to more open-source security tools.
-- 🚀 Get certified in **Kubernetes Security Specialist (CKS)**.
-- 🏆 Win more **Bug Bounty** challenges.
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&center=true&vCenter=true&width=435&lines=let's+go+snag+some+Pok%C3%A9mon!%F0%9F%90%99" />
