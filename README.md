@@ -64,7 +64,7 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 ---
 
 ### 🚀 Visit My Blog:
-**[Xettabyte.me](https://xettabyte.me/)** for deep dives into Bug Bounties, Ethical Hacking, and more!
+**[xettabyte.me](https://xettabyte.me/)** for deep dives into Bug Bounties, Ethical Hacking, and more!
 
 
 
