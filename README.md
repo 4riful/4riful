@@ -5,7 +5,7 @@
 
 🌟 **Ethical Hacker | Bug Bounty Hunter | SBC and Cloud Enthusiast** 🌟
 
-I'm passionate about cybersecurity, automation, and cloud solutions. Currently, I'm focused on **Bug Bounties, Web Application & Cloud Security**, and **Linux System Administration**. If you're excited about using technology to drive innovation and security, you're in the right place!
+I'm passionate about cybersecurity, automation, and cloud solutions. Currently, I'm focused on **Bug Bounties, Web Application & Cloud Security**, and **Linux System Administration**. 
 
 ---
 
@@ -18,7 +18,7 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️**Technologies I Love**: 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -34,8 +34,8 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
   <img src="https://img.shields.io/badge/WSL-0A97F4?style=flat&logo=windows-terminal&logoColor=white"/>
 </div>
 
-> **Technologies I Love** 😍: 
-> Linux | Python | Docker | Node.js | Bash | Rust | Kubernetes | AWS | Digital Ocean | Pandas | Scikit-learn | WSL | Raspberry Pi
+
+
 
 ---
 
