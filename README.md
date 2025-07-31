@@ -48,10 +48,6 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 
 ---
 
-## 🔥 Featured Projects
-
-
----
 
 ## 🌐 Connect with Me
 
