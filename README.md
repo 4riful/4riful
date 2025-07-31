@@ -63,11 +63,10 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 
 ---
 
-### 🚀 Visit My Blog:
-**[xettabyte.me](https://xettabyte.me/)** for deep dives into Bug Bounties, Ethical Hacking, and more!
+
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&center=true&vCenter=true&width=435&lines=let's+go+snag+some+Pok%C3%A9mon!%F0%9F%90%99" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&center=true&vCenter=true&width=435&lines=let's+go+snag+Pok%C3%A9mon!%F0%9F%90%99" />
 </p>
