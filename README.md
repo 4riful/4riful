@@ -41,19 +41,20 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 
 ## 🏆 GitHub Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4riful&show_icons=true&theme=radical&count_private=true)
+
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=4riful&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4riful&layout=compact&theme=radical)](https://github.com/4riful/github-readme-stats)
 
----
+</div>
+
 
 
 ## 🌐 Connect with Me
 
 [![Twitter](https://img.shields.io/twitter/follow/xettabyte1?label=Twitter&logo=twitter&style=flat&color=brightgreen)](https://twitter.com/xettabyte1)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-%2310C751.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ariful4nik)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXPvK1zmNvh60P3sMF_5M1Q)
 
 ![Profile views](https://komarev.com/ghpvc/?username=4riful&label=Profile%20views&color=0e75b6&style=flat)
 
