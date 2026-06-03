@@ -50,7 +50,8 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=4riful&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4riful&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4riful&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
