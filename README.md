@@ -18,7 +18,7 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 
 ---
 
-## 🛠️**Technologies I Love**: 
+## 🛠️**Things I Do Love**: 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
