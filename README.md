@@ -123,12 +123,15 @@ I keep small operational tools around WSL maintenance, terminal setup, Raspberry
 
 ## Developer Notes
 
-- build tools that remove repeated work
-- keep humans in the loop for risky AI workflows
-- prefer citations, audit logs, and reviewable outputs
-- make Linux do boring work automatically
-- treat security as a default engineering habit
-- ship small, learn fast, then harden what proves useful
+```text
+principles/
++-- build tools that remove repeated work
++-- keep humans in the loop for risky AI workflows
++-- prefer citations, audit logs, and reviewable outputs
++-- make Linux do boring work automatically
++-- treat security as a default engineering habit
++-- ship small, learn fast, then harden what proves useful
+```
 
 ---
 
