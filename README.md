@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=00F718&center=true&vCenter=true&width=760&lines=Building+Neurosformer;Learning+AI+agents+and+RAG+systems;Automating+workflows+from+messy+operations;Security%2C+Linux%2C+and+product+engineering" alt="developer focus typing line"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4riful&style=flat-square&color=00F718" alt="Profile views"/>
+</p>
+
 ---
 
 ## ~/whoami
