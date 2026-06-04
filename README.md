@@ -35,38 +35,38 @@ I like engineering that comes from real friction: document chaos, recon noise, f
 
 ## Engineering Map
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" style="vertical-align:middle"/>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="28" alt="FastAPI" style="vertical-align:middle"/>
-  <img src="https://cdn.simpleicons.org/googledocs/4285F4" height="28" alt="Document AI" style="vertical-align:middle"/>
-  <img src="https://cdn.simpleicons.org/readthedocs/8CA1AF" height="28" alt="RAG documentation" style="vertical-align:middle"/>
-  &nbsp;<strong>Neurosformer direction</strong>
-</p>
+<h3>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="24" alt="Python" style="vertical-align:middle"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="24" alt="FastAPI" style="vertical-align:middle"/>
+  <img src="https://cdn.simpleicons.org/googledocs/4285F4" height="24" alt="Document AI" style="vertical-align:middle"/>
+  <img src="https://cdn.simpleicons.org/readthedocs/8CA1AF" height="24" alt="RAG documentation" style="vertical-align:middle"/>
+  Neurosformer direction
+</h3>
 
 I am building toward AI workflow intelligence for document-heavy and compliance-heavy industries: OCR, extraction, RAG with citations, human review, audit logs, checklist automation, and vertical products like NeuroDocOps, NeuroFashionOps, NeuroClinic Docs, and AgroNeuro.
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" style="vertical-align:middle"/>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="28" alt="PyTorch" style="vertical-align:middle"/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="28" alt="Sentence Transformers" style="vertical-align:middle"/>
-  &nbsp;<strong>Recommendation systems I work on</strong>
-</p>
+<h3>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="24" alt="Python" style="vertical-align:middle"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="24" alt="PyTorch" style="vertical-align:middle"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="24" alt="Sentence Transformers" style="vertical-align:middle"/>
+  Recommendation systems I work on
+</h3>
 
 I work on retrieval and ranking systems that build applicant/job documents, use text, skills, location, title, role-family, embedding, and graph-signal channels, then rank candidates with baseline scoring, pairwise logistic models, and LightGBM experiments. I care about service contracts, feature lineage, telemetry, Recall/MRR/NDCG evaluation, and policy diagnostics instead of only returning a score.
 
-<p>
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="28" alt="Kali Linux" style="vertical-align:middle"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="28" alt="Bash" style="vertical-align:middle"/>
-  &nbsp;<strong>Security automation</strong>
-</p>
+<h3>
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="24" alt="Kali Linux" style="vertical-align:middle"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="24" alt="Bash" style="vertical-align:middle"/>
+  Security automation
+</h3>
 
 I build recon helpers, subdomain workflows, cloud/SNI enumeration, payload notes, bug bounty utilities, and scripts that reduce repeated manual work.
 
-<p>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="28" alt="Linux" style="vertical-align:middle"/>
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="28" alt="Raspberry Pi" style="vertical-align:middle"/>
-  &nbsp;<strong>Linux and systems work</strong>
-</p>
+<h3>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="24" alt="Linux" style="vertical-align:middle"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="24" alt="Raspberry Pi" style="vertical-align:middle"/>
+  Linux and systems work
+</h3>
 
 I keep small operational tools around WSL maintenance, terminal setup, Raspberry Pi memory tuning, backup/config flows, notifications, and Linux automation.
 
