@@ -33,6 +33,14 @@ I like engineering that comes from real friction: document chaos, recon noise, f
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Neurosformer">
+    <img src="asset/neurosformer-banner.png" width="820" alt="Neurosformer - Where Intelligence Takes Form. Knowledge | Tools | Agents | Workflows"/>
+  </a>
+</p>
+
+---
+
 ## Engineering Map
 
 <h3>
