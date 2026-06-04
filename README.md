@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=6E7681&center=true&vCenter=true&width=760&lines=Building+Neurosformer;Learning+AI+agents+and+RAG+systems;Automating+workflows+from+messy+operations;Security%2C+Linux%2C+and+product+engineering" alt="developer focus typing line"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=79C0FF&center=true&vCenter=true&width=760&lines=Building+Neurosformer;Learning+AI+agents+and+RAG+systems;Automating+workflows+from+messy+operations;Security%2C+Linux%2C+and+product+engineering" alt="developer focus typing line"/>
 </p>
 
 ---
@@ -128,10 +128,10 @@ I keep small operational tools around WSL maintenance, terminal setup, Raspberry
 </p>
 
 <p>
-  <strong>Other things I have touched</strong><br/>
+  <strong><em>Other things I have touched</em></strong><br/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C Sharp"/>
-  <img src="https://img.shields.io/badge/Compiler_basics-learning-6B7280?style=flat-square&logo=codeforces&logoColor=white" alt="Compiler basics"/>
-  <img src="https://img.shields.io/badge/Drone_simulation-browser_experiments-0EA5E9?style=flat-square&logo=webgl&logoColor=white" alt="Drone simulation"/>
+  <img src="https://img.shields.io/badge/Compiler_basics-learning-6366F1?style=flat-square&logo=codeforces&logoColor=white" alt="Compiler basics"/>
+  <img src="https://img.shields.io/badge/Drone_simulation-browser_experiments-14B8A6?style=flat-square&logo=webgl&logoColor=white" alt="Drone simulation"/>
 </p>
 
 ---
