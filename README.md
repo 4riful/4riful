@@ -1,108 +1,125 @@
-# Ariful Anik
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRiYmxlYmNsejMxeDZhY2U1ZnBxZjlqcjBtNnkwNmZubDhodnN6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="86%" alt="terminal workspace banner"/>
+</p>
+
+<h1 align="center">Ariful Anik</h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRiYmxlYmNsejMxeDZhY2U1ZnBxZjlqcjBtNnkwNmZubDhodnN6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%" alt="coding banner"/>
+  <strong>Security-minded builder shaping practical software across Linux, automation, web systems, and applied recommendation engines.</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F718&center=true&vCenter=true&width=760&lines=Security-minded+builder;Linux+automation+and+web+tooling;Recommendation+systems+via+different+algorithms;Building+Neurosformer" alt="typing introduction" />
-</p>
-
-<p align="center">
-  <a href="mailto:ariful4nik@gmail.com"><img src="https://img.shields.io/badge/Email-ariful4nik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://x.com/xettabyte1"><img src="https://img.shields.io/badge/X-@xettabyte1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://github.com/4riful"><img src="https://img.shields.io/badge/GitHub-4riful-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.hackerrank.com/ariful4nik"><img src="https://img.shields.io/badge/HackerRank-ariful4nik-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4riful&label=Profile%20views&color=00F718&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/4riful?label=Followers&style=flat-square&logo=github&color=0e75b6" alt="GitHub followers"/>
-  <img src="https://img.shields.io/badge/Open%20source-since%202018-8A2BE2?style=flat-square&logo=github" alt="Open source since 2018"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=00F718&center=true&vCenter=true&width=720&lines=Building+Neurosformer;Exploring+recommendation+systems+via+different+algorithms;Automating+security+and+Linux+workflows;Shipping+small+tools+for+real+problems" alt="animated focus line"/>
 </p>
 
 ---
 
-## What I Build
+## Signal
 
-<p>
-  I build practical software around security, automation, Linux systems, web products, and applied recommendation engines. I care about tools that are useful under real constraints: limited systems, noisy networks, broken workflows, and problems where a small script or service can save hours.
-</p>
+I work where systems meet pressure: recon noise, restricted networks, fragile workflows, small servers, automation gaps, and product ideas that need clean engineering. My projects usually start from a practical itch, then turn into scripts, services, dashboards, or research prototypes that can be reused.
 
-<div>
-  <a href="https://github.com/4riful/neurosformer-web"><img src="https://img.shields.io/badge/Neurosformer-current%20build-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Neurosformer"/></a>
-  <a href="https://github.com/4riful/careersync-recommendation-engine"><img src="https://img.shields.io/badge/Recommendation%20Systems-different%20algorithms-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Recommendation systems"/></a>
-  <a href="https://github.com/4riful/cloud-sentry"><img src="https://img.shields.io/badge/Security%20Research-recon%20automation-FF6B00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security research"/></a>
-  <a href="https://github.com/4riful/scripts-lab"><img src="https://img.shields.io/badge/Linux%20Automation-shell%20and%20systems-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Linux automation"/></a>
-</div>
+Right now I am building **Neurosformer**, while also exploring **recommendation systems via different algorithms**, security automation, Linux tooling, and network-resilience utilities.
 
 ---
 
-## Current Direction
+## Current Shape
 
 <p>
-  <img src="https://img.shields.io/badge/01-Neurosformer-7C3AED?style=flat-square&logo=typescript&logoColor=white" alt="Neurosformer"/>
-  Building Neurosformer as a focused web product with TypeScript, React-style frontend work, and product systems thinking.
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="24" alt="React"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="24" alt="TypeScript"/>
+  <strong>Neurosformer</strong><br/>
+  Building a web product with frontend discipline, clean interfaces, and product-first iteration.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/02-Recommendation%20Engines-3776AB?style=flat-square&logo=python&logoColor=white" alt="Recommendation engines"/>
-  Exploring recommendation systems via different algorithms, ranking logic, matching signals, and service-oriented architecture.
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="24" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="24" alt="Algorithms"/>
+  <strong>Recommendation engines</strong><br/>
+  Working with ranking, matching, signal design, and different algorithmic approaches instead of treating recommendation as one fixed formula.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/03-Security%20Automation-FF6B00?style=flat-square&logo=kalilinux&logoColor=white" alt="Security automation"/>
-  Working on recon helpers, cloud/SNI enumeration, subdomain discovery, payload notes, and bug bounty workflow tooling.
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="24" alt="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="24" alt="Bash"/>
+  <strong>Security automation</strong><br/>
+  Building recon helpers, cloud/SNI enumeration ideas, payload notes, subdomain workflows, and bug bounty utilities that reduce manual repetition.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/04-Linux%20Systems-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux systems"/>
-  Writing scripts for WSL, terminal setup, Raspberry Pi memory tuning, notification flows, backups, and system maintenance.
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="24" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="24" alt="Raspberry Pi"/>
+  <strong>Linux and edge systems</strong><br/>
+  Writing terminal, WSL, Raspberry Pi, backup, notification, and maintenance tooling for machines that need to stay useful under constraints.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/05-Network%20Resilience-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="Network resilience"/>
-  Building practical tooling around WireGuard, VPN endpoint monitoring, Telegram alerts, and connectivity recovery.
+  <img src="https://cdn.simpleicons.org/wireguard/88171A" height="24" alt="WireGuard"/>
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="24" alt="Telegram"/>
+  <strong>Network resilience</strong><br/>
+  Experimenting with WireGuard endpoint monitoring, connectivity recovery, and alerting flows for situations where normal app paths fail.
 </p>
 
 ---
 
-## Things I Do Love
+## Tools I Reach For
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,express,mongodb,supabase,docker,linux,bash,git,github,githubactions,html,css,cs" alt="Skill icons" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" alt="TypeScript" title="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="JavaScript" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="React" title="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="28" alt="Node.js" title="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000" height="28" alt="Express" title="Express"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="28" alt="MongoDB" title="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="28" alt="Supabase" title="Supabase"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="28" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="28" alt="Linux" title="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="28" alt="Bash" title="Bash"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="28" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" height="28" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="28" alt="GitHub Actions" title="GitHub Actions"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireguard/88171A" height="28" alt="WireGuard" title="WireGuard"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="28" alt="Telegram" title="Telegram"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnubash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" alt="WireGuard"/>
-  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Bot"/>
-  <img src="https://img.shields.io/badge/WSL-0078D4?style=flat&logo=windows-terminal&logoColor=white" alt="WSL"/>
-  <img src="https://img.shields.io/badge/Oh%20My%20Zsh-5B4FE8?style=flat&logo=ohmyzsh&logoColor=white" alt="Oh My Zsh"/>
+  <sub>Python | TypeScript | JavaScript | React | Node.js | Express | MongoDB | Supabase | Docker | Linux | Bash | Git | GitHub Actions | WireGuard | Telegram</sub>
 </p>
 
 ---
 
-## Builder DNA
+## How I Think
 
 <p>
-  <img src="https://img.shields.io/badge/Security-first%20mindset-111827?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security-first mindset"/>
-  <img src="https://img.shields.io/badge/Automation-over%20repetition-0F172A?style=for-the-badge&logo=gnubash&logoColor=white" alt="Automation over repetition"/>
-  <img src="https://img.shields.io/badge/Linux-as%20home-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux as home"/>
-  <img src="https://img.shields.io/badge/Research-to%20shipping-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="Research to shipping"/>
+  <strong>Build from friction.</strong> If a workflow is annoying enough to repeat, it is probably worth turning into a script, service, or checklist.
 </p>
 
-I like building from the edge cases inward: the failure mode, the blocked connection, the messy workflow, the missing script, the ranking problem, the noisy recon output. If it can be automated, measured, hardened, or made simpler, I probably want to touch it.
+<p>
+  <strong>Prefer useful over decorative.</strong> A small tool that solves one real problem beats a large project that only looks impressive.
+</p>
+
+<p>
+  <strong>Security is a habit.</strong> I like systems that are observable, recoverable, and harder to misuse.
+</p>
+
+<p>
+  <strong>Keep learning in public.</strong> Some repos are polished products, some are experiments, and some are notes from the path. The point is momentum.
+</p>
 
 ---
 
