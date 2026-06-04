@@ -44,7 +44,22 @@ I'm passionate about cybersecurity, automation, and cloud solutions. Currently, 
 
 ---
 
+## 🏆 GitHub Highlights
 
+<div align="center">
+  <a href="https://github.com/4riful?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-47-8A2BE2?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/4riful?tab=followers">
+    <img src="https://img.shields.io/github/followers/4riful?style=flat&logo=github&label=Followers&color=0e75b6"/>
+  </a>
+  <a href="https://github.com/4riful?tab=repositories&q=&type=source">
+    <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Automation%20%7C%20Linux-00F718?style=flat&logo=gnubash&logoColor=black"/>
+  </a>
+  <a href="https://github.com/4riful/surfshark-wireguard-ip-monitor">
+    <img src="https://img.shields.io/badge/Featured-WireGuard%20IP%20Monitor-88171A?style=flat&logo=wireguard&logoColor=white"/>
+  </a>
+</div>
 
 ## 🌐 Connect with Me
 
