@@ -154,6 +154,6 @@ principles/
 <p>
   <a href="mailto:ariful4nik@gmail.com"><img src="https://img.shields.io/badge/Email-ariful4nik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/xettabyte1"><img src="https://img.shields.io/badge/X-@xettabyte1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.hackerrank.com/ariful4nik"><img src="https://img.shields.io/badge/HackerRank-ariful4nik-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <img src="https://komarev.com/ghpvc/?username=4riful&style=for-the-badge&color=4B5563" alt="Profile views"/>
+  <a href="https://www.hackerrank.com/ariful4nik"><img src="https://img.shields.io/badge/HackerRank-ariful4nik-1BA94C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <img src="https://komarev.com/ghpvc/?username=4riful&style=for-the-badge&color=1E40AF" alt="Profile views"/>
 </p>
