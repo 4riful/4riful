@@ -36,38 +36,34 @@ I like engineering that comes from real friction: document chaos, recon noise, f
 ## Engineering Map
 
 <p>
-  <img src="https://cdn.simpleicons.org/openai/412991" height="22" alt="AI"/>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="22" alt="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="20" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="20" alt="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/googledocs/4285F4" height="20" alt="Document AI"/>
+  <img src="https://cdn.simpleicons.org/readthedocs/8CA1AF" height="20" alt="RAG documentation"/>
   <strong>Neurosformer direction</strong><br/>
-  AI workflow intelligence for document-heavy and compliance-heavy industries: OCR, extraction, RAG with citations, human review, audit logs, checklist automation, and vertical products like NeuroDocOps, NeuroFashionOps, NeuroClinic Docs, and AgroNeuro.
+  I am building toward AI workflow intelligence for document-heavy and compliance-heavy industries: OCR, extraction, RAG with citations, human review, audit logs, checklist automation, and vertical products like NeuroDocOps, NeuroFashionOps, NeuroClinic Docs, and AgroNeuro.
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="22" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="22" alt="Algorithms"/>
-  <strong>Recommendation and matching systems</strong><br/>
-  Ranking, matching, scoring signals, service contracts, and algorithmic approaches that can support real product workflows.
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="20" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" alt="PyTorch"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" alt="Sentence Transformers"/>
+  <strong>Recommendation systems I work on</strong><br/>
+  I work on retrieval and ranking systems that build applicant/job documents, use text, skills, location, title, role-family, embedding, and graph-signal channels, then rank candidates with baseline scoring, pairwise logistic models, and LightGBM experiments. I care about service contracts, feature lineage, telemetry, Recall/MRR/NDCG evaluation, and policy diagnostics instead of only returning a score.
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="22" alt="Kali Linux"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="22" alt="Bash"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="20" alt="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="20" alt="Bash"/>
   <strong>Security automation</strong><br/>
-  Recon helpers, subdomain workflows, cloud/SNI enumeration, payload notes, bug bounty utilities, and scripts that reduce repeated manual work.
+  I build recon helpers, subdomain workflows, cloud/SNI enumeration, payload notes, bug bounty utilities, and scripts that reduce repeated manual work.
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="22" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="22" alt="Raspberry Pi"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="20" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="20" alt="Raspberry Pi"/>
   <strong>Linux and systems work</strong><br/>
-  WSL maintenance, terminal setup, Raspberry Pi memory tuning, backup/config flows, notifications, and small operational tools.
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/wireguard/88171A" height="22" alt="WireGuard"/>
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="22" alt="Telegram"/>
-  <strong>Network resilience utilities</strong><br/>
-  WireGuard endpoint monitoring, connectivity recovery, Telegram alerts, and tooling for environments where normal app paths break.
+  I keep small operational tools around WSL maintenance, terminal setup, Raspberry Pi memory tuning, backup/config flows, notifications, and Linux automation.
 </p>
 
 ---
@@ -80,6 +76,7 @@ I like engineering that comes from real friction: document chaos, recon noise, f
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Uvicorn-111827?style=flat-square&logo=gunicorn&logoColor=white" alt="Uvicorn"/>
+  <img src="https://img.shields.io/badge/Requests-20232A?style=flat-square&logo=python&logoColor=white" alt="Requests"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
 </p>
@@ -103,10 +100,14 @@ I like engineering that comes from real friction: document chaos, recon noise, f
 </p>
 
 <p>
-  <strong>AI, RAG, and research direction</strong><br/>
-  <img src="https://img.shields.io/badge/AI_Agents-learning-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI Agents"/>
+  <strong>AI, RAG, recommendation, and research direction</strong><br/>
+  <img src="https://img.shields.io/badge/AI_Agents-learning-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/RAG_systems-learning-0F766E?style=flat-square&logo=readthedocs&logoColor=white" alt="RAG systems"/>
   <img src="https://img.shields.io/badge/OCR_and_extraction-document_AI-2563EB?style=flat-square&logo=googledocs&logoColor=white" alt="OCR and extraction"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-111827?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Sentence Transformers"/>
+  <img src="https://img.shields.io/badge/LightGBM_rankers-02569B?style=flat-square&logo=python&logoColor=white" alt="LightGBM rankers"/>
+  <img src="https://img.shields.io/badge/Ranking_metrics-Recall%20%7C%20MRR%20%7C%20NDCG-4B5563?style=flat-square" alt="Ranking metrics"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
 </p>
