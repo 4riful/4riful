@@ -12,6 +12,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=79C0FF&center=true&vCenter=true&width=760&lines=Building+Neurosformer;Learning+AI+agents+and+RAG+systems;Automating+workflows+from+messy+operations;Security%2C+Linux%2C+and+product+engineering" alt="developer focus typing line"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/4riful?tab=followers"><img src="https://img.shields.io/github/followers/4riful?style=for-the-badge&logo=github&label=Followers&color=0EA5E9" alt="GitHub followers"/></a>
+  <a href="https://github.com/4riful?tab=repositories"><img src="https://img.shields.io/github/stars/4riful?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="GitHub stars"/></a>
+  <a href="https://github.com/Neurosformer"><img src="https://img.shields.io/badge/Founder-Neurosformer-7C3AED?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Founder of Neurosformer"/></a>
+  <img src="https://komarev.com/ghpvc/?username=4riful&style=for-the-badge&color=1E40AF" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Neurosformer/NeuroDocOps"><img src="https://img.shields.io/badge/NeuroDocOps-Document%20AI-2563EB?style=flat-square&logo=googledocs&logoColor=white" alt="NeuroDocOps"/></a>
+  <a href="https://github.com/Neurosformer/NeuroFashionOps"><img src="https://img.shields.io/badge/NeuroFashionOps-Traceability%20AI-DB2777?style=flat-square&logo=shopify&logoColor=white" alt="NeuroFashionOps"/></a>
+  <a href="https://github.com/Neurosformer/NeuroClinicDocs"><img src="https://img.shields.io/badge/NeuroClinic%20Docs-Clinical%20Workflow-059669?style=flat-square&logo=mediamarkt&logoColor=white" alt="NeuroClinic Docs"/></a>
+  <a href="https://github.com/Neurosformer/AgroNeuro"><img src="https://img.shields.io/badge/AgroNeuro-Crop%20Risk-65A30D?style=flat-square&logo=leaflet&logoColor=white" alt="AgroNeuro"/></a>
+</p>
+
 ---
 
 ## ~/whoami
@@ -136,6 +150,23 @@ I keep small operational tools around WSL maintenance, terminal setup, Raspberry
 
 ---
 
+## GitHub Signal Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=4riful&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophy board"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4riful&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=4riful&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4riful&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top languages"/>
+</p>
+
+---
+
 ## Developer Notes
 
 ```text
@@ -156,5 +187,4 @@ principles/
   <a href="mailto:ariful4nik@gmail.com"><img src="https://img.shields.io/badge/Email-ariful4nik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/xettabyte1"><img src="https://img.shields.io/badge/X-@xettabyte1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.hackerrank.com/ariful4nik"><img src="https://img.shields.io/badge/HackerRank-ariful4nik-1BA94C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <img src="https://komarev.com/ghpvc/?username=4riful&style=for-the-badge&color=1E40AF" alt="Profile views"/>
 </p>
