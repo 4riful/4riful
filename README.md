@@ -47,12 +47,14 @@ I am building toward AI workflow intelligence for document-heavy and compliance-
 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" align="absmiddle"/>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="28" alt="PyTorch" align="absmiddle"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="28" alt="FastAPI" align="absmiddle"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="LightGBM" align="absmiddle"/>
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="28" alt="Sentence Transformers" align="absmiddle"/>
-  &nbsp;<strong>Recommendation systems I work on</strong>
+  <img src="https://cdn.simpleicons.org/target/111827" height="28" alt="Recommendation Systems" align="absmiddle"/>
+  &nbsp;<strong>Recommendation Systems</strong>
 </p>
 
-I work on retrieval and ranking systems that build applicant/job documents, use text, skills, location, title, role-family, embedding, and graph-signal channels, then rank candidates with baseline scoring, pairwise logistic models, and LightGBM experiments. I care about service contracts, feature lineage, telemetry, Recall/MRR/NDCG evaluation, and policy diagnostics instead of only returning a score.
+Production recommendation pipelines for applicant, job, and event matching using retrieval signals, embeddings, graph signals, policy filters, telemetry, and baseline/LightGBM ranking.
 
 <p>
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="28" alt="Kali Linux" align="absmiddle"/>
